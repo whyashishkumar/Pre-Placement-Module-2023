@@ -1,0 +1,17 @@
+class Solution {
+public:
+	int firstBadVersion(int n) {
+		int s=0;
+        int mid=s+(n-s)/2;
+        while(s<=n){
+            if(isBadVersion(mid)){
+                n=mid-1;
+            }
+            else{
+                s=mid+1;
+            }
+            mid=s+(n-s)/2;
+        }
+        return s;
+	}
+};
