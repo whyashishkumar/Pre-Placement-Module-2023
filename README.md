@@ -6,9 +6,9 @@
 - Section:b
 - Preferred Programming Language: C++/Java/Python
 
-## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+## Coding Profile
+- LeetCode: [vishal_chauhan](https://leetcode.com/vishal_244)
+- HackerRank: [vishal_chauhan](https://www.hackerrank.com/@vishal_1923ce101)
 
 ## Placement Module
 
